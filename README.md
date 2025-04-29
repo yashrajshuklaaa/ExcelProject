@@ -6,3 +6,5 @@ Link of excel file : https://docs.google.com/spreadsheets/d/1pfk0N2BQ-PMaSyYU767
 note : raw data, processed data and dashboard are all in the same excel file.
 
 link of the dataset : https://catalog.data.gov/dataset/warehouse-and-retail-sales
+
+Thanks to Baljinder Kaur Ma'am for giving this amazing project.
